@@ -1,0 +1,6 @@
+
+# IDE
+.idea/
+
+# Massive 1.5 GB file...
+GoogleNews-vectors-negative300.bin.gz
